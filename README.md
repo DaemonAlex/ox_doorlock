@@ -3,7 +3,7 @@
 Door management resource, with compatibility for [ox_core](https://github.com/overextended/ox_core), [es_extended](https://github.com/esx-framework/esx_core), [nd_core](https://github.com/ND-Framework/ND_Core), and [qbcore] 
 Successor to nui_doorlock with less scuff and more stuff.
 
-_The UI needs to be built - use the [latest release](https://github.com/overextended/ox_doorlock/releases/latest/download/ox_doorlock.zip) if you want to drag-n-drop._
+This updated script is drag and drop
 
 ## Dependencies
 
